@@ -7,7 +7,6 @@ These are specific codes for the course of Mathematical Statistics.
 |---|---|
 | 00 | Empirical distribution function with confidence bands |
 | 01 | Influence function and sensitivity curve |
-| 02 | Likelihood of one observation from a Beta distribution |
 
 ## Requirements
 
